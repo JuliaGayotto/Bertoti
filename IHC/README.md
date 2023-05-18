@@ -16,6 +16,17 @@
   
 ![uma](https://github.com/JuliaGayotto/Bertoti/assets/101027809/acfceb67-0ef9-411c-b180-fc565a9d64a8)
 
- <p> IMAGEM 1 (ERRO) - esse caso contradiz a heurística de número 1 por não apresentar nenhum tipo de confirmação que a etapa de troca de senha foi concluída. Esse tipo de erro pode causar confusão ao usuário por não informar em que etapa ele se encontra (feedback do status). Uma forma de resolver seria, por exemplo, o sistema enviar uma mensagem de confirmação da troca após o botão de confirmar ser ativado. </p>
-   
+<p> IMAGEM 1 (ERRO) - esse caso contradiz a heurística de número 1 por não apresentar nenhum tipo de confirmação que a etapa de troca de senha foi concluída. Esse tipo de erro pode causar confusão ao usuário por não informar em que etapa ele se encontra (feedback do status). Uma forma de resolver seria, por exemplo, o sistema enviar uma mensagem de confirmação da troca após o botão de confirmar ser ativado. </p>
+<div align="center" height="30%"> 
 
+![um](https://github.com/JuliaGayotto/Bertoti/assets/101027809/15d9e8bc-6d59-435d-91b6-5e8893ae3d27)
+
+</div>
+<p> IMAGEM 2 (ERRO) - opõe-se a heurística de número 1 por não apresentar feedback ao usuário em que item do menu do sistema ele se encontra (feedback do status) . Esse tipo de erro pode causar confusão e perda de confiança no sistema. Uma forma de resolver seria, por exemplo, manter de uma cor diferente o item do menu da página que o usuário se localiza. </p>
+<br>
+<div align="center" height="30%"> 
+
+![umdois](https://github.com/JuliaGayotto/Bertoti/assets/101027809/cf752298-aebf-4809-a822-3731a5eed8f4)
+
+</div>
+<p> IMAGEM 3 (ACERTO) - trata-se de uma boa aplicação da heurística de número 1 por apresentar barra de progresso (feedback do status) para que o usuario consiga se localizar e compreender em que etapa do sistema ele está. </p>
