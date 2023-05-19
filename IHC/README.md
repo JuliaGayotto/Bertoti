@@ -9,7 +9,7 @@
   <li><strong>IHC futuro:</strong> trata-se do desenvolvimento de um artigo sobre como inteligencias artificiais podem auxiliar no combate à corrupção e a interação dessas com os seres humanos por meio da utilização de formas naturais. </li>
 </ul>
 <br>
-<h2> IHC Atual </h2>
+<h2>💻 IHC Atual </h2>
 <h3> 📍 Nº 1: Visibilidade do status do sistema </h3>
 <p> Refere-se ao fato de sempre manter o usuário informado (feedback) sobre onde ele se localiza no sistema, ou seja, de permitir a visualização do status do sistema. Quando esses reconhecem em que etapa estão localizados, conseguem entender melhor o resultado de suas interações anteriores e determinar as futuras. </p>
 <details>
@@ -122,25 +122,25 @@
   ![oito](https://github.com/JuliaGayotto/Bertoti/assets/101027809/eb7c4592-9623-46e7-9fc7-ceae829e518e)
 
   </div>
-  <p>IMAGEM 13 (ERRO❌) -  </p>
+  <p>IMAGEM 13 (ERRO❌) - consiste-se em uma design com muita informação (poluído) que apresenta diversos elementos que não necessáriamente são revelantes nessa etapa do processo. Como se trata de uma página de resultados de uma pesquisa poderiamos retirar informações como prazo de entrega, tipo de frente, quantidade de novos e usudos etc e apresentar isso apenas quando o usuário selecionasse um produto específico, deixando assim o design mais minimalista.  </p>
   <div align="center">
     
   ![oito (2)](https://github.com/JuliaGayotto/Bertoti/assets/101027809/7ee78b1c-5df8-4c7b-a427-508b75e33c13)
 
   </div>
-  <p>IMAGEM 14 (ERRO❌) -  </p>
+  <p>IMAGEM 14 (ERRO❌) - o botão de logout está localizado em um local pouco cconvencional e ainda possuí um design estranho que confunde o usuáio e o faz questionar se aquilo de fato é um botão de sair ou não, Uma solução seria colocar o botão em um lugar maisintuitivo como a parte de baixo ou a extrema esquerda da parte de cima do menu, além de trocar o símbolo para algo que remete o logout, como o símbolo da porta com uma seta.  </p>
   <div align="center">
     
   ![oito2](https://github.com/JuliaGayotto/Bertoti/assets/101027809/72c1e254-3eee-4b78-a3a4-c4ddd2ee5b01)
 
   </div>
-  <p>IMAGEM 15 (ERRO❌) -  </p>
+  <p>IMAGEM 15 (ERRO❌) - o design apresenta interface poluída por apresentar muitas informações ao mesmo tempo e isso ocasiona distrações ao usuário. A solução seria manter somente as informações realmente e frequentemente necessárias para que assim o design da interface fique mais agradável e não tenha diversas informações disputando o foco do usuário</p>
   <div align="center">
  
 ![oito3](https://github.com/JuliaGayotto/Bertoti/assets/101027809/180ea8d4-702c-44c3-93e0-695ba79e859e)
   
   </div>
-  <p>IMAGEM 16 (ERRO❌) -  </p>
+  <p>IMAGEM 16 (ERRO❌) - a responsividade do SIGA deixa a desejar e transforma o design em um design confuso. Ao clicar em "solicitar" aparce um quadro fora da tabela disputando o espaço de tela com a tabela. Uma correção desse problema seria melhorar a resposividade do sistema para que o design se adapte corretamente em cada tipo de dispositivo. </p>
   <br>
 </details>
 <h3> 🔎 Nº 9: Ajude os usuários a  reconhecer, diagnosticar e recuperar-se de erros </h3>
