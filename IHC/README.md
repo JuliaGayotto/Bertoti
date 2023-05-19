@@ -80,7 +80,7 @@
 ![quatro5](https://github.com/JuliaGayotto/Bertoti/assets/101027809/01c44d40-b0e2-4ca1-8c7f-1cbe48e93761)
 
   </div>
-  <p> IMAGEM 9 (ERRO❌) - é um erro pois faz o usuário se questionar se sua ação ocorreu com sucesso ou se ocorreu um erro, já que a cor vermelha por padrão é utilizada quando um erro ou alerta ocorre e não quando a ação é realizada com sucesso. Uma solução seria trocar a cor da mensagem para verde para concordar com a ideia de sucesso. </p>
+  <p> IMAGEM 9 (ERRO❌) - é um erro pois faz o usuário questionar se sua ação ocorreu com sucesso ou se ocorreu um erro, já que a cor vermelha por padrão é utilizada quando um erro ou alerta ocorre e não quando a ação é realizada com sucesso. Uma solução seria trocar a cor da mensagem para verde para concordar com a ideia de sucesso. </p>
   <div align="center">
     
   ![quatrocerto](https://github.com/JuliaGayotto/Bertoti/assets/101027809/f811ff39-190e-4818-9d77-9a2514a143b1)
